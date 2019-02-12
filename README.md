@@ -1,2 +1,2 @@
-# Bike-Sharing-Prediction-DLND
+# Bike-Sharing-Prediction
 This repo contains the Udacity Deep Learning Nanodegree project for building a neural network from scratch to  predict bike sharing usage.
